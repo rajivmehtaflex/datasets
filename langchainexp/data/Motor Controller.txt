@@ -1,0 +1,84 @@
+﻿Page :- https://www.bacancytechnology.com/systems/motor-controller
+
+Meta :- Electric Vehicle Motor Controller | Made In India
+
+Meta description :- Our product motor controller for electric vehicles is another important component that provides a seamless experience to run and maintain the motors smoothly.
+
+Motor Controller For Electric Vehicles
+Motor controller is the second important part of the electric vehicle next to the battery in the complete powertrain. The motor controller needs to be tuned to match with Different motors, applications, types of vehicles, etc. with different control algorithms.
+________________
+
+
+Our Motor Controller Showcase
+
+
+Motor Controller
+* 48V / 60V /72V Voltage support
+* Ignition key input support
+* 1kW / 1.5kW / 3kW Variant
+* Have 500W (36V,12A) and 2.5KW (60V, 40A), Engineering samples coming soon
+* FOC and Sinusoidal algorithm support
+* Drive Mode selection input
+* Throttle input support
+* Forward / Reverse mode support
+* CAN FD
+* Protection on Various Condition
+   * Under Voltage
+   * Over Current
+   * Over Temperature
+   * IP65 Support
+
+GET THE BEST QUOTATION
+________________
+
+
+
+
+Schedule A Call With Our Product Specialist
+We ensure you’re getting answers for all your queries based on your requirement.
+When you work with Bacancy you’ll have full transparency and you'll find our team whenever you are stuck in your project. All in one place.
+INQUIRE NOW
+solutions@bacancy.com
+Your Success Is Guaranteed !
+
+
+
+Motor Protection
+A mechanism to avoid internal faults and damage to the electrical motor is the Motor Protection. Bacancy’s EV Motor controller comes with safety features like an under-voltage, over-voltage, over-current, short circuit.
+
+
+________________
+
+
+
+
+Communication Protocols
+Communication protocols make the controller intelligent and can be accessed easily. Bacancy’s Motor controller comes with an in-built CAN interface to integrate with existing VCU or other external systems. In the CAN interface, the user can access all the data related to running parameters, Speed, Alarms, Errors, etc. from the motor controller.
+________________
+
+
+
+
+
+
+Motor Controller Application
+   * 2W / 3W Electric Vehicle
+   * Robotics
+   * Golf carts and go-carts
+________________
+
+
+
+
+   * Object Detection in Images
+   * Sinusoidal PWM for smooth operation
+   * Undervoltage, Overcurrent Protection
+   * Speed control, Torque control and field weakening features to Achieve higher speed
+   * Optimization & tuning of the FoC algorithms
+________________
+
+
+
+
+Motor Control Algorithm in EV
+Field oriented control (FOC) is an efficient speed control mechanism for Brushless DC motors. It is similar to sinusoidal commutation but comes with some mathematical changes. Bacancy’s Motor controller design with FOC and Sinusoidal algorithm for best performance and efficiency. Algorithms implemented such that torque ripple will be less to get a smoother riding experience.

@@ -1,0 +1,79 @@
+﻿Page :- https://www.bacancytechnology.com/systems/embedded-software-design
+
+Meta title :- Embedded Software Development | Embedded Software Design
+
+Description :- Equipped with the latest technology, We are offering a hardware abstraction layer embedded system, Embedded software development, and embedded software design.
+
+Get successful Embedded Software Design with latest solutions
+We offer End-to-end Firmware algorithm development services for custom hardware, get in touch with us for result-oriented Embedded Software Development services, testing, validation, debugging and many more solutions for various architectures and platforms.
+________________
+Overview
+Bacancy Systems holds excellence in Embedded Software Design we provide an exclusive range of services from effortless bare metal solutions to complex distributed systems. We offer customized Embedded software development and embedded system services as you need it- either as a stand-alone service or integrated with custom hardware & FPGA design services.
+Our work pattern follows a sequential journey from researching, prototyping, design documentation, implementation, and validation. The meticulous efforts of our enthusiastic embedded sw engineer turn out to give you the sweet fruit of a successful embedded software design development.
+________________
+Our Services:
+We provide an extensive range of embedded software design services that include:
+* Next-gen technology adoption
+* Firmware & middleware development
+* Unique embedded system development
+* Usability engineering for graphic design for consumer electronics
+* Boot & runtime performance optimization for embedded application development
+* Sustained integration, extensive testing, & firm branching workflow
+* IoT, Smart grid, Automotive, & healthcare products with agile methodology
+* Researching varied tools and technologies to minimize project costs and accelerate the development process
+
+
+________________
+
+
+
+
+Our Embedded Expertise:
+The Embedded Engineer at Bacancy Systems has mastery in magnificent ways.
+Embedded Devices
+* Bare metal and embedded OS, e.g. Linux, Android, ARM Mbed OS, Free RTOS, OpenWrt, VxWork, UCOSII, QNX, OpenEmbedded, AWS FreeRTOS
+* Custom bootloaders & board support packages
+* Processor Families, like ST Micro STM32, Nordic nRF5x, Texas Instruments MSP430, Atmel AT-SAM, NXP i.MX, Microchip PIC
+High Reliability
+* Demanding implementations in medical, and Automotive domain
+* Dispersed monitoring & control firmware for large-scale distributed systems
+High Performance
+* Multi-threaded and multi-processor systems
+* Using hydrogenous co-processors to bifurcates real-time work
+* Real-time execution over multiple processors
+* Low-latency designs for video (including streaming with H.264) and other quick-response applications
+System Integration
+* Bluetooth LE Profiles and Services
+* Using hydrogenous co-processors to bifurcates real-time work
+* Clock and Power Management
+* Operator interfaces (OI)
+* State Machines (FSM)
+* Resource Management of power, memory, peripherals, etc
+* Over the air & Over the wire firmware Update Service
+* Wear leveling
+* Non-volatile Assiduous Storage solutions
+* Standard or custom file system
+* Sensor Integration with elective feature derivation
+* Human Machine Interface (HMI)
+Embedded Languages
+* Expert in embedded system software engineering with C, C++, Assembly, Java, Python
+Communication Protocols
+* Network protocols like TCP/IP, Modbus TCP/RTU, DHCP, UDP, HTTP, SDP, RTP, RTCP, RTSP
+* Industrial 4.0 protocol like OPC UA/DA, Profinet, CANOpen, IEC61850, IEC 60870-5-101/104, LonTalk, Modbus TCP/RTU, J1939, DLMS
+* RF wireless design services expertise such as Wireless protocols, such as Wi-Fi, Bluetooth wireless, SigFox, Bluetooth Low Energy, NFC, ZigBee, LoRaWAN
+* Communication buses like I2C, UART, PCIe, MODBUS, SPI, CAN, USB
+* Development Tools: GNU development tools, MATLAB/Simulink, Code Composer Studio, Keil uVision, MPLAB, Microsoft Visual Studio, Eclipse, IAR Embedded Workbench, Atmel Studio, LabVIEW, BitBake, Code Warrior, buildroot, Java SDK.
+Security
+* Ciphers & hashing algorithms like AES, RSA, RSA, DSA, ECDSA, ECDSA, SHA-2, etc
+* Tamper evidence, tamper detection, and tamper response
+* Expertise in open source & commercial tools
+* Secure FOTA Update for Connected Devices
+* Secure Boot for Embedded Systems with different architectures such as ARM Cortex A, ARM Cortex M, RISC-V architectures, etc
+Low Power
+* Battery-enabled such as wearable devices
+* Dynamic power scaling
+* Energy collection
+Manufacturing Test
+* Designing the test process
+* Coding the software (test-fixture)
+* Cooperating test fixture with DUT (device-under-test)

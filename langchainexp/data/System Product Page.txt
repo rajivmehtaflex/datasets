@@ -1,0 +1,89 @@
+﻿Page :- https://www.bacancytechnology.com/systems/products
+
+Meta Title :- Bacancy Systems | Products
+Meta description :- We,at Bacancy systems, empower businesses with our revolutionary and innovative products aiming for excellence and having customer satisfaction in mind.
+
+
+
+
+Products
+We Empower Businesses with our Revolutionary Products.
+
+
+________________
+
+
+
+
+AC Charge Controller
+With the green EV revolution outburst, consumers have become even more conscious towards the environment and invested in electric vehicles. However, the concern for recharging their EVs hasn’t diminished yet. Bacancy brings in a top-notch solution to your consumers’ troubles.
+Types of BMS
+* Types of AC Controllers
+* AC Single Gun Type 2 (7.4Kw Controller)
+* AC Dual Gun Type 2 Controller
+* AC Single Gun Type 2 (22KW)
+* Bharat AC001 Controller
+________________
+
+
+Battery Management System
+We are developing a complete eco-system for Battery Management System ( BMS ) which can provide flexibility from hardware, software, and cloud.
+Types of BMS
+* BMS Lite
+* BMS Expreso
+* BMS Pro
+* Battery Remote monitoring Framework (Cloud and Mobile App)
+________________
+
+
+
+
+DC Fast Charger
+Reduce the long wait times in charging electric vehicles (EVs) with our DC Fast Charger (DCFC). Charge the EV battery boosting the energy transition for four-wheeler electric vehicles and fleet electrification. Save the installation cost and equipment to convert AC to DC by leveling up your EV charging infrastructure game with Bacancy today!
+Types of DC Chargers:
+* Single Gun Charger-30KW
+* Dual Gun Charger-30KW Each
+* Custom Charger-Upto 200KW
+________________
+
+
+
+
+
+
+CCS2 Controller
+Bacancy Systems are developing CCS2 charger complying with ISO-15118 and IEC-61851 with 30kW and 50kW rating. These DC chargers come with all smart features like RFID, OCPP1.6, HMI interface. We are also working on small DC power modules ranging from 500W to 2kW which are use full for battery swapping stations.
+Types of DC chargers:
+* CCS2 DC Charger
+
+
+________________
+
+
+
+
+Motor Controller
+The motor control unit is a system that operates BLDC/PMSM motor in a systematic manner to operate Electric Vehicle. We at Bacancy Systems develop automated grade motor controllers from 500W to 5kW raring, motor controller suitable for 2W and 3W which can operate and wide battery voltage range 48-60V.
+Categories of motor controllers:
+* 1.8kW
+* 5-7.5 kW
+________________
+
+
+
+
+HealthCare Patch
+We have attained mastery in developing Patch healthcare wearables that measure various biometric patterns along with checking the blood glucose of the user.
+* Cardiac
+* Glucose
+* EEG
+COMING SOON
+________________
+
+
+
+
+Health Remote Monitoring Framework
+Providing access, edit rights, and managing powers for your remote health monitoring systems with our avant-garde frameworks.
+Types of DC chargers:
+* Cloud and Mobile App

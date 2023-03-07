@@ -1,0 +1,156 @@
+﻿Page :- https://www.bacancytechnology.com/systems/ev-components-manufacturers-suppliers
+
+Title : Electric Vehicle Component Manufacturers & Suppliers
+
+
+Description : We are the top rated Electric Vehicle manufacturers and suppliers. The best part is we manufacture and supply customized EV products as per your requirements.
+
+Electric Vehicle Components Manufacturer and Supplier
+Bacancy is India's no.1 Electric vehicle components manufacturer. Our system processes cover all the steps necessary for manufacturing electric vehicle components, from product development to production and processing. We continue to innovate by introducing high-value-added products that lift the EV performance by leaps and bounds.
+
+Bacancy’s Next-Gen Market Proven E-Mobility Product Range
+Leverage our deep domain expertise utilized to build products of unmatched quality. We are the industry leaders in designing and manufacturing exceptional electric vehicle components to cater to sustainable mobility solutions. Our wide array of products is customized as per your current and voltage requirements.
+
+
+________________
+
+
+
+
+Our Product Range
+Battery Management System
+
+
+16 cell BMS
+BMS-16S-xxA
+* Supports 3-series to 16-series cells
+* Battery chemistry support: Li-on, Li-polymer, LiFePO4 Battery packs
+* Voltage: 7V to 75V
+* Communication Protocols: BLE, WiFi, Non-isolated CAN, GSM/GPRS & GPS interfaces
+
+
+22 cell BMS
+BMS-22S-xxA
+* Supports 4 - 22 cells
+* Battery chemistry support: Li-on, Li-polymer, LiFePO4 Battery packs
+* Voltage: 12.5 V to 92.5 V
+* Communication Protocols: BLE, WiFi, Non-isolated CAN, GSM/GPRS & GPS interfaces
+
+
+High voltage BMS
+* Each Slave interface supports 3-16 Cell
+* Battery chemistry support: Li-on, Li-polymer, LiFePO4 Battery packs
+* Voltage: 24V to 500V configurable, Current: 150A continuous
+* Communication Protocols: BLE, WiFi, Non-isolated CAN, GSM/GPRS & GPS interfaces
+* Master and Slave modules in series with external power module to support high voltage Battery pack application
+* External Power Module having Precharge, Hole sensor, Charge/Discharge control
+
+
+________________
+
+
+
+
+DC Fast Charger
+* Single Gun Charger 30KW
+* Dual Gun Charger 30KW EACH
+* Custom charger 200KW
+
+
+* Human Machine Interface (HMI) friendly
+* Suitable for 30kW rating
+* RFID / NFC supportive for authentication
+* Equipped with 4G, Ethernet-10/100, Wi-Fi for network connectivity
+* iOS/IEC 15118 and DIN 70121 compliant
+* Powered with OCPP 1.6 for communication
+* Single/ Dual/ Custom Gun (CCS2) compliant
+* CAN interface enabled for PMI (Power Module Integration)
+
+
+________________
+
+
+
+
+EV Charge Controller (CCS2)
+* Operate on +12V @2A power supply
+* PLC support for Vehicle Communication
+* RFID / NFC - RC255
+* Modbus RTU Master for HMI ( Display ) interface
+* Modbus RTU Slave for Energy Meter Interface
+* CAN2.0 Interface for Power Module Integration
+* Ethernet - 10/100 for Network connectivity
+* CAN FD
+* GSM - 4G LTE fallback to 2G support
+* 4 Nos. PT1000 Interface for Temperature monitoring
+* 4 Nos. Digital Input and Digital Output
+
+
+________________
+
+
+
+
+Motor Controller
+* 48V / 60V /72V Voltage support
+* Ignition key input support
+* 1kW / 1.5kW / 3kW Variant
+* FOC and Sinusoidal algorithm support
+* Drive Mode selection input
+* Throttle input support
+* Forward / Reverse mode support
+* CAN FD
+
+* ________________
+
+
+   * 
+AC Charge Controller
+Types of BMS
+      * Types of AC Controllers
+      * AC Single Gun Type 2 (7.4Kw Controller)
+      * AC Dual Gun Type 2 Controller
+      * AC Single Gun Type 2 (22KW)
+      * Bharat AC001 Controller
+
+
+________________
+
+
+
+
+Schedule A Call With Our Product Specialist
+We ensure you’re getting answers for all your queries based on your requirement.
+When you work with Bacancy you’ll have full transparency and you'll find our team whenever you are stuck in your project. All in one place.
+INQUIRE NOW
+solutions@bacancy.com
+Your Success Is Guaranteed !
+We accelerate the release of digital products and guarantee your success
+We Use Slack, Jira & GitHub for Accurate Deployment and Effective Communication.
+
+Why Choose Us
+Bacancy is renowned for delivering the best-in-class components for electric vehicles in the evolving EV ecosystem. As India’s top Electric Vehicle Automotive Components Manufacturer with over a decade of experience, we build the highest quality electric vehicle components.
+
+
+________________
+
+
+
+
+One-Stop Shop
+We handle all the aspects of product development, including hardware, firmware design, migration, compliance, and testing. Bacancy’s wide array of EV product range makes it a preferred product development partner for EV component manufacturers and suppliers.
+
+Customization
+Bacancy’s intelligent products are multi-faceted and designed to accommodate real-time current and voltage needs, ensuring maximum safety and protection from potential deviations.
+
+Strong Expertise
+Hand We design, evaluate and justify technology solutions from a thorough understanding of the business benefit for your company. Leverage the skill and expertise of seasoned professional engineers with hands-on experience in embedded and product engineering.
+
+Proactive
+Our service philosophy is proactive, not reactive. With state-of-the-art network monitoring and management, we manage your PLM processes to identify, detect and troubleshoot issues right from the root cause of the problem.
+
+Effective Synergy
+With our extensive experience in managing all types of complex projects, we manage every detail and coordinate with all the stakeholders so you can take a back seat that your product is delivered on time.
+
+24/7 Support Service
+A consistent support that never sleeps! We deliver complete, one-stop technical product support services with unparalleled scalability and expertise. Leverage our dependable, on-demand support options, including 24/7 technical and remote support.
